@@ -57,6 +57,12 @@ yarn deploy
 
 Make sure your GitHub repository is configured to serve from the `gh-pages` branch.
 
+Demo
+
+You can access the live demo at:
+
+https://hyuarzani.github.io/github-searcher/
+
 ## License
 
 This project is licensed under the MIT License.
