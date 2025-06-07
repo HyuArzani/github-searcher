@@ -30,7 +30,7 @@ const UserList: React.FC = () => {
 
           {openUserId === user.id && (
             <div className="repo-list">
-              {user.repos && user.repos.length > 0 ? (
+              {user.repos?.length ? (
                 user.repos.map((repo: UserRepository) => (
                   <div key={repo.id} className="repo-entry">
                     <span className="repo-name">{repo.full_name}</span>

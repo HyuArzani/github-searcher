@@ -11,14 +11,14 @@ Built with Vite, TypeScript, and ESLint, and deployed with GitHub Pages.
 
 ## Scripts
 
-| Script              | Description                                 |
-| ------------------- | ------------------------------------------- |
-| `npm run dev`       | Start the development server                |
-| `npm run build`     | Compile TypeScript and build for production |
-| `npm run lint`      | Run ESLint on the codebase                  |
-| `npm run preview`   | Preview the production build locally        |
-| `npm run predeploy` | Build the project before deployment         |
-| `npm run deploy`    | Deploy `dist/` folder to GitHub Pages       |
+| Script           | Description                                 |
+| ---------------- | ------------------------------------------- |
+| `yarn dev`       | Start the development server                |
+| `yarn build`     | Compile TypeScript and build for production |
+| `yarn lint`      | Run ESLint on the codebase                  |
+| `yarn preview`   | Preview the production build locally        |
+| `yarn predeploy` | Build the project before deployment         |
+| `yarn deploy`    | Deploy `dist/` folder to GitHub Pages       |
 
 ## Development Setup
 
